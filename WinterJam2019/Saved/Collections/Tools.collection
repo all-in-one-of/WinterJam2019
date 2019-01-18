@@ -1,0 +1,12 @@
+FileVersion:2
+Type:Static
+Guid:0A0A7C5F-4925-2298-7148-9CA7F1B3E273
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/Blockout/BlockoutKit_BP.BlockoutKit_BP
+/Game/Blueprints/Tools/Decal_BP.Decal_BP
+/Game/Blueprints/Tools/InstancedMeshManager_BP.InstancedMeshManager_BP
+/Game/Blueprints/Tools/SplineBase_BP.SplineBase_BP
+/Game/Blueprints/Tools/SplineDecorator_BP.SplineDecorator_BP
+/Game/Blueprints/Tools/SplineMesh_BP.SplineMesh_BP
+/Script/Engine.SpotLight

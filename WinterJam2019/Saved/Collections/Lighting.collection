@@ -1,0 +1,14 @@
+FileVersion:2
+Type:Static
+Guid:0DA1D9FF-496C-DCB9-C390-46BD4CD9BB8A
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/Art/Lighting/SkyLighting_BP.SkyLighting_BP
+/Script/Engine.BoxReflectionCapture
+/Script/Engine.LightmassImportanceVolume
+/Script/Engine.PointLight
+/Script/Engine.PostProcessVolume
+/Script/Engine.RectLight
+/Script/Engine.SphereReflectionCapture
+/Script/Engine.SpotLight
+/Script/Engine.VolumetricLightmapDensityVolume
